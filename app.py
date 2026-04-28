@@ -3,7 +3,7 @@ warnings.filterwarnings("ignore")
 import os
 import streamlit as st
 import pandas as pd
-from hfrs_hybrid_pipeline.processing import ClinicalNoteProcessor
+from processing import ClinicalNoteProcessor
 from medkit.text.ner.quick_umls_matcher import QuickUMLSMatcher
 
 
