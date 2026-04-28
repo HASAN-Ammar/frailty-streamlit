@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+spacy
+medkit-lib[all]
+torch
+transformers
+openpyxl
